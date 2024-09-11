@@ -4,5 +4,4 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |----------|-------------|--------------|--------------|
-| _12.09.24_ | [материалы](https://academy.yandex.ru/handbook/python/article/vvod-i-vyvod-dannykh-operatsii-s-chislami-strokami-formatirovaniye)<br>[задачи](https://new.contest.yandex.ru/41233) | **программирование** (повторение) | ввод и вывод данных,<br>операции с числами и строками,<br>форматирование, типы |
-| _13.09.23_ | материалы:<br>[1](https://academy.yandex.ru/handbook/algorithms/article/algoritmy-i-slozhnost), [2](https://academy.yandex.ru/handbook/algorithms/article/polnyj-perebor-i-optimizaciya-perebora) | **алгоритмы и структуры данных** (введение) | aлгоритмы и сложность,<br>полный перебор и оптимизация перебора |
+| _12.09.24_ | [материалы](https://colab.research.google.com/drive/1kAQ4x1Vg_BxajR0yRPEvRb7RxkEGK9hP?usp=sharing) | **программирование** | `pandas` |
