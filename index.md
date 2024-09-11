@@ -4,4 +4,4 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |----------|-------------|--------------|--------------|
-| _12.09.24_ | [материалы](https://colab.research.google.com/drive/1kAQ4x1Vg_BxajR0yRPEvRb7RxkEGK9hP?usp=sharing) | **программирование** | `pandas` |
+| _12.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024_ex.ipynb) | **программирование** | `pandas` |
