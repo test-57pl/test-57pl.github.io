@@ -5,5 +5,6 @@
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |----------|-------------|--------------|--------------|
 | _12.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024_ex.ipynb) | **программирование** | `pandas` |
+| _14.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/14.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/14.09.2024_ex.ipynb) | **программирование** | `pandas` |
 
 Не забываем про [кодстайл](https://github.com/KatiaKozlova/files/blob/main/57-10/codestyle.md)!
