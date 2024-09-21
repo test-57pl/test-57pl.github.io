@@ -1,5 +1,5 @@
 # Уроки и материалы (группа Екатерины Руслановны)
-### Задания проверочной: [`.md`](https://github.com/KatiaKozlova/files/blob/main/57-10/test/tasks.md) и [`.pdf`](https://github.com/KatiaKozlova/files/blob/main/57-10/test/tasks.pdf)
+### Задания проверочной: [`.md`](https://github.com/KatiaKozlova/files/blob/main/57-10/test/tasks.md) и [`.pdf`](https://github.com/KatiaKozlova/files/blob/main/57-10/test/tasks.pdf).
 ### Общая [программа](https://github.com/KatiaKozlova/files/blob/main/57-10/program.md) 10-го класса.
 ### Уроки
 
