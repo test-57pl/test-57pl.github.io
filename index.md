@@ -15,5 +15,7 @@
 | _28.09.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/numpy/28.09.2024_ex.ipynb) | **программирование** | `numpy` |
 | _03.10.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/03.10.2024.ipynb) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
 | _05.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/03.10.2024_ex.ipynb) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
+| _10.10.24_ | [задания](https://new.contest.yandex.ru/48627) | **алгосы** | жадные алгоритмы |
+| _10.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/10.10.2024_ex.md) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
 
 Не забываем про [кодстайл](https://github.com/KatiaKozlova/files/blob/main/57-10/codestyle.md)!
