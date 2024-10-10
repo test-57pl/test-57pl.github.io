@@ -5,17 +5,17 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |----------|-------------|--------------|--------------|
-| _12.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024_ex.ipynb) | **программирование** | `pandas` |
-| _14.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/14.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/14.09.2024_ex.ipynb) | **программирование** | `pandas` |
-| _19.09.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-specii)<br>[задания](https://new.contest.yandex.ru/48626) | **алгосы** | жадные алгоритмы |
-| _19.09.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/19.09.2024_ex.ipynb) | **программирование** | `pandas` |
-| _21.09.24_ | задания:<br>[`.md`](https://github.com/KatiaKozlova/files/blob/main/57-10/test/v1/tasks.md), [`.pdf`](https://github.com/KatiaKozlova/files/blob/main/57-10/test/v1/tasks.pdf) | **общее** | проверочная |
-| _26.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/numpy/26.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/numpy/26.09.2024_ex.ipynb) | **программирование** | `numpy` |
-| _28.09.24_ | [решения](https://github.com/KatiaKozlova/files/tree/main/57-10/test/v1/solutions) | **общее** | проверочная |
-| _28.09.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/numpy/28.09.2024_ex.ipynb) | **программирование** | `numpy` |
-| _03.10.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/03.10.2024.ipynb) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
-| _05.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/03.10.2024_ex.ipynb) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
-| _10.10.24_ | [задания](https://new.contest.yandex.ru/48627) | **алгосы** | жадные алгоритмы |
 | _10.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/10.10.2024_ex.md) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
+| _10.10.24_ | [задания](https://new.contest.yandex.ru/48627) | **алгосы** | жадные алгоритмы |
+| _05.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/03.10.2024_ex.ipynb) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
+| _03.10.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/03.10.2024.ipynb) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
+| _28.09.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/numpy/28.09.2024_ex.ipynb) | **программирование** | `numpy` |
+| _28.09.24_ | [решения](https://github.com/KatiaKozlova/files/tree/main/57-10/test/v1/solutions) | **общее** | проверочная |
+| _26.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/numpy/26.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/numpy/26.09.2024_ex.ipynb) | **программирование** | `numpy` |
+| _21.09.24_ | задания:<br>[`.md`](https://github.com/KatiaKozlova/files/blob/main/57-10/test/v1/tasks.md), [`.pdf`](https://github.com/KatiaKozlova/files/blob/main/57-10/test/v1/tasks.pdf) | **общее** | проверочная |
+| _19.09.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/19.09.2024_ex.ipynb) | **программирование** | `pandas` |
+| _19.09.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-specii)<br>[задания](https://new.contest.yandex.ru/48626) | **алгосы** | жадные алгоритмы |
+| _14.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/14.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/14.09.2024_ex.ipynb) | **программирование** | `pandas` |
+| _12.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024_ex.ipynb) | **программирование** | `pandas` |
 
 Не забываем про [кодстайл](https://github.com/KatiaKozlova/files/blob/main/57-10/codestyle.md)!
