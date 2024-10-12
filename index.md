@@ -4,7 +4,8 @@
 ### Уроки
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
-|----------|-------------|--------------|--------------|
+|------------|---------------|-------------|----------------|
+| _12.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/10.10.2024_ex.md) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
 | _10.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/10.10.2024_ex.md) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
 | _10.10.24_ | [задания](https://new.contest.yandex.ru/48627) | **алгосы** | жадные алгоритмы |
 | _05.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/03.10.2024_ex.ipynb) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
