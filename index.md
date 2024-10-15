@@ -1,8 +1,8 @@
 # Уроки и материалы (группа Екатерины Руслановны)
 
-### Общая [программа](https://github.com/KatiaKozlova/files/blob/main/57-10/program.md) 10-го класса.
-### Не забываем про [кодстайл](https://github.com/KatiaKozlova/files/blob/main/57-10/codestyle.md)!
-### Уроки
+#### Общая [программа](https://github.com/KatiaKozlova/files/blob/main/57-10/program.md) 10-го класса.
+#### Не забываем про [кодстайл](https://github.com/KatiaKozlova/files/blob/main/57-10/codestyle.md)!
+## Уроки
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
