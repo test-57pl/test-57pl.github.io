@@ -1,6 +1,7 @@
 # Уроки и материалы (группа Екатерины Руслановны)
 
 ### Общая [программа](https://github.com/KatiaKozlova/files/blob/main/57-10/program.md) 10-го класса.
+### Не забываем про [кодстайл](https://github.com/KatiaKozlova/files/blob/main/57-10/codestyle.md)!
 ### Уроки
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
@@ -18,5 +19,3 @@
 | _19.09.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-specii)<br>[задания](https://new.contest.yandex.ru/48626) | **алгосы** | жадные алгоритмы |
 | _14.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/14.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/14.09.2024_ex.ipynb) | **программирование** | `pandas` |
 | _12.09.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/pandas/12.09.2024_ex.ipynb) | **программирование** | `pandas` |
-
-Не забываем про [кодстайл](https://github.com/KatiaKozlova/files/blob/main/57-10/codestyle.md)!
