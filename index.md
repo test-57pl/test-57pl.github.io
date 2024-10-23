@@ -6,7 +6,7 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
-| _17.10.24_ | [проект](https://github.com/KatiaKozlova/files/blob/main/57-10/projects/project_1.md) | **программирование** | `pandas`<br>визуализация |
+| _17-24.10.24_ | [проект](https://github.com/KatiaKozlova/files/blob/main/57-10/projects/project_1.md) | **программирование** | `pandas`<br>визуализация |
 | _12.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/10.10.2024_ex.md) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
 | _10.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/10.10.2024_ex.md) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
 | _10.10.24_ | [задания](https://new.contest.yandex.ru/48627) | **алгосы** | жадные алгоритмы |
