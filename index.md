@@ -6,7 +6,7 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
-| _07.11.24_ | [материалы и задания](https://github.com/KatiaKozlova/files/blob/main/57-10/morphology/07.11.2024.ipynb) | **программирование** | морфология<br>`pymorphy`, `spacy`, `mystem` |
+| _07.11.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/morphology/07.11.2024.ipynb) | **программирование** | морфология<br>`pymorphy`, `spacy`, `mystem` |
 | _17-24.10.24_ | [проект](https://github.com/KatiaKozlova/files/blob/main/57-10/projects/project_1.md) | **программирование** | `pandas`<br>визуализация |
 | _12.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/10.10.2024_ex.md) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
 | _10.10.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/visualization/10.10.2024_ex.md) | **программирование** | визуализация:<br>`matplotlib`, `seaborn` |
