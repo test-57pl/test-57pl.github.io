@@ -6,6 +6,7 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
+| _14.11.24_ | задания:<br>[1](https://new.contest.yandex.ru/48629), [2](https://new.contest.yandex.ru/48628) | **алгосы** | жадные алгоритмы |
 | _09.11.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/morphology/09.11.2024.md) | **программирование** | морфология<br>`pymorphy`, `spacy`, `mystem` |
 | _07.11.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/morphology/07.11.2024.ipynb) | **программирование** | морфология<br>`pymorphy`, `spacy`, `mystem` |
 | _17-24.10.24_ | [проект](https://github.com/KatiaKozlova/files/blob/main/57-10/projects/project_1.md) | **программирование** | `pandas`<br>визуализация |
