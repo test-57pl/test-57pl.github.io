@@ -6,6 +6,8 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
+| _23.11.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/dvoichnyj-poisk)<br>[задания](https://new.contest.yandex.ru/47595) | **алгосы** | разделяй и властвуй |
+| _21.11.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/syntax/16.11.2024.ipynb) | **программирование** | синтаксис<br>`spacy`, `udpipe` |
 | _16.11.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/syntax/16.11.2024.ipynb) | **программирование** | синтаксис<br>`spacy`, `udpipe` |
 | _14.11.24_ | задания:<br>[1](https://new.contest.yandex.ru/48629), [2](https://new.contest.yandex.ru/48628) | **алгосы** | жадные алгоритмы |
 | _09.11.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/morphology/09.11.2024.md) | **программирование** | морфология<br>`pymorphy`, `spacy`, `mystem` |
