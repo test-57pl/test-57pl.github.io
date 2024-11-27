@@ -7,7 +7,7 @@
 
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
-|------------|---------------|-------------|----------------|\
+|------------|---------------|-------------|----------------|
 | _28.11.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/semantics/28.11.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/semantics/28.11.2024.md) | **программирование** | семантика<br>tf-idf, word2vec |
 | _23.11.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/dvoichnyj-poisk)<br>[задания](https://new.contest.yandex.ru/47595) | **алгосы** | разделяй и властвуй |
 | _21.11.24_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/syntax/16.11.2024.ipynb) | **программирование** | синтаксис<br>`spacy`, `udpipe` |
