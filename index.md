@@ -8,6 +8,7 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
+| _14.12.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/podschet-inversij)<br>[задания](https://new.contest.yandex.ru/47633) | **алгосы** | разделяй и властвуй |
 | _12.12.24_ | задания:<br>[1](https://new.contest.yandex.ru/47632), [2](https://new.contest.yandex.ru/47631) | **алгосы** | разделяй и властвуй |
 | _05.12.24_ | задания:<br>[1](https://new.contest.yandex.ru/47632), [2](https://new.contest.yandex.ru/47631) | **алгосы** | разделяй и властвуй |
 | _28.11.24_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/semantics/28.11.2024.ipynb)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-10/semantics/28.11.2024.md) | **программирование** | семантика<br>tf-idf, word2vec |
