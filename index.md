@@ -8,6 +8,7 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
+| _18.01.25_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/db/18.01.2025.md) | **программирование** | базы данных: `JOIN`'ы |
 | _16.01.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/db/16.01.2025.pdf) | **программирование** | базы данных: `JOIN`'ы |
 | _09.01.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/db/09.01.2025.pdf) | **программирование** | базы данных: начало |
 | _14.12.24_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/podschet-inversij)<br>[задания](https://new.contest.yandex.ru/47633) | **алгосы** | разделяй и властвуй |
