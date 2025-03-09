@@ -8,6 +8,7 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
+| _20.02.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/db/20.02.2025.pdf)<br>[пример](https://github.com/LumbaBalumba/school57_prog/tree/main/10/projects/python_sqlalchemy) | **программирование** | базы данных: SQLAlchemy |
 | _13.02.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/db/13.02.2025.pdf)<br>[пример](https://github.com/LumbaBalumba/school57_prog/tree/main/10/projects/python_sqlite) | **программирование** | базы данных: `sqlite3` |
 | _06.02.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/db/06.02.2025.pdf) | **программирование** | базы данных: `VIEW`, оконные функции |
 | _01.02.25_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-10/db/01.02.2025.md) | **программирование** | базы данных |
