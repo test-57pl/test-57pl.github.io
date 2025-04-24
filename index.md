@@ -8,6 +8,8 @@
 
 | **Число**  | **Материалы** | **Предмет** | **Темы урока** |
 |------------|---------------|-------------|----------------|
+| _24.04.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/interp/parser.pdf) | **программирование** | интерпретатор |
+| _17.04.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/interp/lexer.pdf) | **программирование** | интерпретатор |
 | _27.03.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/git/git_2.pdf) | **программирование** | git |
 | _22.03.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-10/git/git.md) | **программирование** | git |
 | _13.03.25_ | [материалы](https://education.yandex.ru/handbook/algorithms/article/zadacha-razmen-2)<br>[задания](https://new.contest.yandex.ru/48703) | **алгосы** | динампрога |
