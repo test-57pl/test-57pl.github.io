@@ -11,4 +11,4 @@
 | _06.09.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/06.09.2025.pdf) | **программирование** | ML |
 | _10.09.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/06.09.2025.pdf)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/KNN.ipynb) | **программирование** | kNN |
 | _17.09.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/17.09.2025.pdf)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/LinReg.ipynb) | **программирование** | LinReg |
-| _24.09.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/24.09.2025.pdf) | **программирование** | LogReg |
+| _24.09.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/24.09.2025.pdf)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/LogReg.ipynb) | **программирование** | LogReg |
