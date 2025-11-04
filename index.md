@@ -14,3 +14,4 @@
 | _24.09.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/24.09.2025.pdf)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/LogReg.ipynb) | **программирование** | LogReg |
 | _08.10.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/08.10.2025.pdf)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/Trees.ipynb) | **программирование** | Trees |
 | _18.10.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/18.10.2025.pdf)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/Boosting.ipynb) | **программирование** | Boosting |
+| _05.11.25_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/Boosting2.ipynb) | **программирование** | Boosting |
