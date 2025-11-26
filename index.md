@@ -16,3 +16,4 @@
 | _18.10.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/18.10.2025.pdf)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/Boosting.ipynb) | **программирование** | Boosting |
 | _05.11.25_ | [задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/Boosting2.ipynb) | **программирование** | Boosting |
 | _12.11.25_ | [материалы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/12.11.2025.pdf)<br>[задания](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/Clusterization.ipynb) | **программирование** | Clusterization |
+| _26.11.25_ | [вопросы](https://github.com/KatiaKozlova/files/blob/main/57-11/ml/questions.pdf)<br>[практика](https://www.kaggle.com/t/d824994ec4e745ed04969872c2f565ec) | **программирование** | Зачет по ML |
